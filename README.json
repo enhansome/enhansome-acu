@@ -110,7 +110,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9102
+                    "stars": 9103
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9102
+                    "stars": 9103
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                     "last_commit": "2025-03-19T11:01:38Z",
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6846
+                    "stars": 6847
                   }
                 }
               ]
@@ -608,7 +608,7 @@
                     "last_commit": "2024-09-06T04:00:38Z",
                     "owner": "princeton-nlp",
                     "repo": "WebShop",
-                    "stars": 583
+                    "stars": 584
                   }
                 }
               ]
@@ -747,7 +747,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1389
+                    "stars": 1390
                   }
                 }
               ]
@@ -865,7 +865,7 @@
                 "last_commit": "2026-08-19T06:48:27Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186681
+                "stars": 186683
               }
             },
             {
@@ -880,7 +880,7 @@
                 "last_commit": "2026-08-18T17:07:08Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 109704
+                "stars": 109722
               }
             },
             {
@@ -892,10 +892,10 @@
                 "archived": false,
                 "id": 666299222,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:38:41Z",
+                "last_commit": "2026-08-19T11:41:32Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68066
+                "stars": 68068
               }
             },
             {
@@ -910,7 +910,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60508
+                "stars": 60511
               }
             },
             {
@@ -925,7 +925,7 @@
                 "last_commit": "2026-08-19T04:54:25Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22786
+                "stars": 22787
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-07-09T17:37:06Z",
                 "owner": "e2b-dev",
                 "repo": "open-computer-use",
-                "stars": 2211
+                "stars": 2212
               }
             },
             {
@@ -1199,10 +1199,10 @@
                 "archived": false,
                 "id": 743140652,
                 "language": "Shell",
-                "last_commit": "2026-08-19T09:19:51Z",
+                "last_commit": "2026-08-19T11:22:49Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 52897
+                "stars": 52898
               }
             },
             {
@@ -1282,8 +1282,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:59:43.063Z",
+    "last_updated": "2026-08-19T12:13:14.091Z",
     "original_repository": "trycua/acu",
+    "original_repository_id": 912449106,
     "original_repository_sha": "2a9b3fbdda601d339c5e76095b83b8642a0a04b5",
     "enhanced_repository": "enhansome/enhansome-acu",
     "enhanced_repository_description": null,
