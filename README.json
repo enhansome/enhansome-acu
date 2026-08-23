@@ -154,7 +154,7 @@
                     "last_commit": "2024-11-07T04:58:20Z",
                     "owner": "BAAI-Agents",
                     "repo": "Cradle",
-                    "stars": 2568
+                    "stars": 2570
                   }
                 }
               ]
@@ -198,7 +198,7 @@
                     "last_commit": "2024-11-25T02:51:51Z",
                     "owner": "niuzaisheng",
                     "repo": "ScreenAgent",
-                    "stars": 613
+                    "stars": 612
                   }
                 }
               ]
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-10T06:52:54Z",
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9539
+                    "stars": 9540
                   }
                 }
               ]
@@ -330,7 +330,7 @@
                     "last_commit": "2024-05-29T10:01:33Z",
                     "owner": "zai-org",
                     "repo": "CogVLM",
-                    "stars": 6742
+                    "stars": 6743
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                     "last_commit": "2025-03-19T11:01:38Z",
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6853
+                    "stars": 6855
                   }
                 }
               ]
@@ -425,7 +425,7 @@
                     "last_commit": "2026-07-20T01:09:31Z",
                     "owner": "microsoft",
                     "repo": "OmniParser",
-                    "stars": 25300
+                    "stars": 25301
                   }
                 }
               ]
@@ -747,7 +747,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1398
+                    "stars": 1399
                   }
                 }
               ]
@@ -862,10 +862,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:48:39Z",
+                "last_commit": "2026-08-23T09:31:41Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186746
+                "stars": 186796
               }
             },
             {
@@ -877,10 +877,10 @@
                 "archived": false,
                 "id": 881458615,
                 "language": "Python",
-                "last_commit": "2026-08-21T00:00:12Z",
+                "last_commit": "2026-08-22T23:25:03Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110063
+                "stars": 110195
               }
             },
             {
@@ -895,7 +895,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68107
+                "stars": 68119
               }
             },
             {
@@ -910,7 +910,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60568
+                "stars": 60581
               }
             },
             {
@@ -922,10 +922,10 @@
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:01:02Z",
+                "last_commit": "2026-08-23T06:59:12Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22828
+                "stars": 22836
               }
             },
             {
@@ -940,7 +940,7 @@
                 "last_commit": "2025-09-19T19:31:39Z",
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10290
+                "stars": 10291
               }
             },
             {
@@ -955,7 +955,7 @@
                 "last_commit": "2026-06-18T14:55:50Z",
                 "owner": "Upsonic",
                 "repo": "Upsonic",
-                "stars": 7943
+                "stars": 7944
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-07-09T17:37:06Z",
                 "owner": "e2b-dev",
                 "repo": "open-computer-use",
-                "stars": 2219
+                "stars": 2220
               }
             },
             {
@@ -1015,7 +1015,7 @@
                 "last_commit": "2026-08-21T14:06:20Z",
                 "owner": "nottelabs",
                 "repo": "notte",
-                "stars": 1996
+                "stars": 1995
               }
             },
             {
@@ -1057,10 +1057,10 @@
                 "archived": false,
                 "id": 627024850,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:29:06Z",
+                "last_commit": "2026-08-22T23:35:48Z",
                 "owner": "OpenAdaptAI",
                 "repo": "OpenAdapt",
-                "stars": 1693
+                "stars": 1697
               }
             },
             {
@@ -1202,7 +1202,7 @@
                 "last_commit": "2026-08-21T23:19:09Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 52954
+                "stars": 52970
               }
             },
             {
@@ -1214,7 +1214,7 @@
                 "archived": false,
                 "id": 626637620,
                 "language": "Shell",
-                "last_commit": "2026-08-21T18:59:55Z",
+                "last_commit": "2026-08-23T07:23:15Z",
                 "owner": "qemus",
                 "repo": "qemu",
                 "stars": 2110
@@ -1232,7 +1232,7 @@
                 "last_commit": "2026-08-21T19:00:38Z",
                 "owner": "e2b-dev",
                 "repo": "desktop",
-                "stars": 1453
+                "stars": 1455
               }
             }
           ],
@@ -1254,7 +1254,7 @@
                 "last_commit": "2024-08-20T18:34:57Z",
                 "owner": "asweigart",
                 "repo": "pyautogui",
-                "stars": 12666
+                "stars": 12665
               }
             },
             {
@@ -1269,7 +1269,7 @@
                 "last_commit": "2024-05-01T19:50:22Z",
                 "owner": "nut-tree",
                 "repo": "nut.js",
-                "stars": 2847
+                "stars": 2848
               }
             }
           ],
@@ -1282,7 +1282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:52:21.048Z",
+    "last_updated": "2026-08-23T09:53:21.855Z",
     "original_repository": "trycua/acu",
     "original_repository_id": 912449106,
     "original_repository_sha": "2a9b3fbdda601d339c5e76095b83b8642a0a04b5",
