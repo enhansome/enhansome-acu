@@ -110,7 +110,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9119
+                    "stars": 9120
                   }
                 }
               ]
@@ -239,10 +239,10 @@
                     "archived": false,
                     "id": 740316987,
                     "language": "Python",
-                    "last_commit": "2026-08-10T06:52:54Z",
+                    "last_commit": "2026-08-24T13:00:27Z",
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9545
+                    "stars": 9546
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9119
+                    "stars": 9120
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                     "last_commit": "2025-03-19T11:01:38Z",
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6857
+                    "stars": 6858
                   }
                 }
               ]
@@ -405,7 +405,13 @@
           "description": null,
           "node_type": "group",
           "title": "Frameworks & Models"
-        },
+        }
+      ],
+      "title": "Frameworks & Models"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
@@ -447,7 +453,7 @@
                     "last_commit": "2024-10-09T02:40:44Z",
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8675
+                    "stars": 8674
                   }
                 }
               ]
@@ -522,7 +528,13 @@
           "description": null,
           "node_type": "group",
           "title": "UI Grounding"
-        },
+        }
+      ],
+      "title": "UI Grounding"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
@@ -617,7 +629,13 @@
           "description": null,
           "node_type": "group",
           "title": "Dataset"
-        },
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
@@ -725,7 +743,7 @@
                     "last_commit": "2026-02-17T22:41:42Z",
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 491
+                    "stars": 490
                   }
                 }
               ]
@@ -846,7 +864,42 @@
           "title": "Benchmark"
         }
       ],
-      "title": "Papers"
+      "title": "Benchmark"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+              "description": "(Nov. 2024)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 883420981,
+                    "language": "Python",
+                    "last_commit": "2024-12-23T15:41:21Z",
+                    "owner": "SALT-NLP",
+                    "repo": "PopupAttack",
+                    "stars": 52
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Safety"
+        }
+      ],
+      "title": "Safety"
     },
     {
       "description": null,
@@ -862,10 +915,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:07:07Z",
+                "last_commit": "2026-08-24T13:56:37Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186848
+                "stars": 186849
               }
             },
             {
@@ -880,7 +933,7 @@
                 "last_commit": "2026-08-22T23:25:03Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110310
+                "stars": 110328
               }
             },
             {
@@ -895,7 +948,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68130
+                "stars": 68131
               }
             },
             {
@@ -910,7 +963,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60604
+                "stars": 60608
               }
             },
             {
@@ -925,7 +978,7 @@
                 "last_commit": "2026-08-24T07:03:43Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22841
+                "stars": 22842
               }
             },
             {
@@ -1199,10 +1252,10 @@
                 "archived": false,
                 "id": 743140652,
                 "language": "Shell",
-                "last_commit": "2026-08-24T06:44:12Z",
+                "last_commit": "2026-08-24T13:29:08Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 52989
+                "stars": 52994
               }
             },
             {
@@ -1214,7 +1267,7 @@
                 "archived": false,
                 "id": 626637620,
                 "language": "Shell",
-                "last_commit": "2026-08-24T03:21:37Z",
+                "last_commit": "2026-08-24T13:34:49Z",
                 "owner": "qemus",
                 "repo": "qemu",
                 "stars": 2109
@@ -1254,7 +1307,7 @@
                 "last_commit": "2024-08-20T18:34:57Z",
                 "owner": "asweigart",
                 "repo": "pyautogui",
-                "stars": 12667
+                "stars": 12668
               }
             },
             {
@@ -1282,7 +1335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:12:02.109Z",
+    "last_updated": "2026-08-24T14:12:49.455Z",
     "original_repository": "trycua/acu",
     "original_repository_id": 912449106,
     "original_repository_sha": "2a9b3fbdda601d339c5e76095b83b8642a0a04b5",
