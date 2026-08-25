@@ -12,7 +12,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "zorazrw/agent-workflow-memory",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -22,7 +22,7 @@
                     "last_commit": "2025-12-22T22:42:30Z",
                     "owner": "zorazrw",
                     "repo": "agent-workflow-memory",
-                    "stars": 460
+                    "stars": 461
                   }
                 }
               ]
@@ -34,7 +34,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "waynchi/gui-agent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -56,7 +56,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "boxworld18/OpenWebAgent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -78,7 +78,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "DigiRL-agent/digirl",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -100,7 +100,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "X-PLUG/MobileAgent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -110,7 +110,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9120
+                    "stars": 9124
                   }
                 }
               ]
@@ -122,7 +122,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "THUDM/WebGLM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -144,7 +144,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "BAAI-Agents/Cradle",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -166,7 +166,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "IMNearth/CoAT",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -188,7 +188,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "niuzaisheng/ScreenAgent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -198,7 +198,7 @@
                     "last_commit": "2024-11-25T02:51:51Z",
                     "owner": "niuzaisheng",
                     "repo": "ScreenAgent",
-                    "stars": 612
+                    "stars": 611
                   }
                 }
               ]
@@ -210,7 +210,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OS-Copilot/OS-Copilot",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -232,7 +232,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "microsoft/UFO",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-24T13:00:27Z",
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9546
+                    "stars": 9549
                   }
                 }
               ]
@@ -254,7 +254,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OSU-NLP-Group/SeeAct",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -276,7 +276,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "X-PLUG/MobileAgent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -286,7 +286,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9120
+                    "stars": 9124
                   }
                 }
               ]
@@ -298,7 +298,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "MinorJerry/WebVoyager",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -320,7 +320,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "zai-org/CogVLM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -342,7 +342,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "TencentQQGYLab/AppAgent",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -352,7 +352,7 @@
                     "last_commit": "2025-03-19T11:01:38Z",
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6858
+                    "stars": 6859
                   }
                 }
               ]
@@ -364,7 +364,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "Mayer123/LASER",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -386,7 +386,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "google-deepmind/android_env",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -421,7 +421,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "microsoft/OmniParser",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -443,7 +443,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "apple/ml-ferret",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -465,7 +465,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "njucckevin/SeeClick",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -487,7 +487,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OSU-NLP-Group/UGround",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -509,7 +509,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OS-Copilot/OS-Atlas",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -544,7 +544,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OS-Copilot/OS-Genesis",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -566,7 +566,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "magicgh/Self-MAP",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -588,7 +588,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "OSU-NLP-Group/Mind2Web",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -610,7 +610,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "princeton-nlp/WebShop",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -645,7 +645,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "AndroidArenaAgent/AndroidArena",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -667,7 +667,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "xlang-ai/OSWorld",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -677,7 +677,7 @@
                     "last_commit": "2026-08-21T09:11:07Z",
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
-                    "stars": 3102
+                    "stars": 3106
                   }
                 }
               ]
@@ -689,7 +689,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "google-research/android_world",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -711,7 +711,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "xlang-ai/Spider2-V",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -733,7 +733,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "StonyBrookNLP/appworld",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -755,7 +755,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "sierra-research/tau-bench",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -765,7 +765,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1402
+                    "stars": 1403
                   }
                 }
               ]
@@ -777,7 +777,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "MobileAgentBench/mobile-agent-bench",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -799,7 +799,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "web-arena-x/visualwebarena",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -821,7 +821,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "microsoft/WindowsAgentArena",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -831,7 +831,7 @@
                     "last_commit": "2026-04-13T19:58:37Z",
                     "owner": "microsoft",
                     "repo": "WindowsAgentArena",
-                    "stars": 887
+                    "stars": 889
                   }
                 }
               ]
@@ -843,7 +843,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "X-LANCE/Mobile-Env",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -878,7 +878,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "SALT-NLP/PopupAttack",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -915,10 +915,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:56:37Z",
+                "last_commit": "2026-08-25T06:00:03Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186849
+                "stars": 186852
               }
             },
             {
@@ -930,10 +930,10 @@
                 "archived": false,
                 "id": 881458615,
                 "language": "Python",
-                "last_commit": "2026-08-22T23:25:03Z",
+                "last_commit": "2026-08-25T02:37:35Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110328
+                "stars": 110409
               }
             },
             {
@@ -948,7 +948,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68131
+                "stars": 68139
               }
             },
             {
@@ -963,7 +963,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60608
+                "stars": 60614
               }
             },
             {
@@ -975,7 +975,7 @@
                 "archived": false,
                 "id": 764723738,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:03:43Z",
+                "last_commit": "2026-08-25T00:19:54Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
                 "stars": 22842
@@ -993,7 +993,7 @@
                 "last_commit": "2025-09-19T19:31:39Z",
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10293
+                "stars": 10292
               }
             },
             {
@@ -1008,7 +1008,7 @@
                 "last_commit": "2026-06-18T14:55:50Z",
                 "owner": "Upsonic",
                 "repo": "Upsonic",
-                "stars": 7945
+                "stars": 7946
               }
             },
             {
@@ -1023,7 +1023,7 @@
                 "last_commit": "2025-01-21T13:41:48Z",
                 "owner": "lavague-ai",
                 "repo": "LaVague",
-                "stars": 6390
+                "stars": 6389
               }
             },
             {
@@ -1065,10 +1065,10 @@
                 "archived": false,
                 "id": 900152988,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:06:20Z",
+                "last_commit": "2026-08-24T20:28:19Z",
                 "owner": "nottelabs",
                 "repo": "notte",
-                "stars": 1995
+                "stars": 1996
               }
             },
             {
@@ -1098,7 +1098,7 @@
                 "last_commit": "2024-06-09T06:47:38Z",
                 "owner": "nat",
                 "repo": "natbot",
-                "stars": 1932
+                "stars": 1933
               }
             },
             {
@@ -1113,7 +1113,7 @@
                 "last_commit": "2026-08-22T23:35:48Z",
                 "owner": "OpenAdaptAI",
                 "repo": "OpenAdapt",
-                "stars": 1699
+                "stars": 1700
               }
             },
             {
@@ -1252,10 +1252,10 @@
                 "archived": false,
                 "id": 743140652,
                 "language": "Shell",
-                "last_commit": "2026-08-24T13:29:08Z",
+                "last_commit": "2026-08-25T01:35:54Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 52994
+                "stars": 53005
               }
             },
             {
@@ -1267,7 +1267,7 @@
                 "archived": false,
                 "id": 626637620,
                 "language": "Shell",
-                "last_commit": "2026-08-24T13:34:49Z",
+                "last_commit": "2026-08-24T22:31:42Z",
                 "owner": "qemus",
                 "repo": "qemu",
                 "stars": 2109
@@ -1285,7 +1285,7 @@
                 "last_commit": "2026-08-23T21:58:54Z",
                 "owner": "e2b-dev",
                 "repo": "desktop",
-                "stars": 1455
+                "stars": 1456
               }
             }
           ],
@@ -1335,7 +1335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:49.455Z",
+    "last_updated": "2026-08-25T06:04:21.157Z",
     "original_repository": "trycua/acu",
     "original_repository_id": 912449106,
     "original_repository_sha": "2a9b3fbdda601d339c5e76095b83b8642a0a04b5",
