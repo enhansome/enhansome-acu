@@ -154,7 +154,7 @@
                     "last_commit": "2024-11-07T04:58:20Z",
                     "owner": "BAAI-Agents",
                     "repo": "Cradle",
-                    "stars": 2571
+                    "stars": 2572
                   }
                 }
               ]
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-24T13:00:27Z",
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9549
+                    "stars": 9553
                   }
                 }
               ]
@@ -264,7 +264,7 @@
                     "last_commit": "2025-02-03T02:09:18Z",
                     "owner": "OSU-NLP-Group",
                     "repo": "SeeAct",
-                    "stars": 850
+                    "stars": 851
                   }
                 }
               ]
@@ -431,7 +431,7 @@
                     "last_commit": "2026-07-20T01:09:31Z",
                     "owner": "microsoft",
                     "repo": "OmniParser",
-                    "stars": 25302
+                    "stars": 25305
                   }
                 }
               ]
@@ -475,7 +475,7 @@
                     "last_commit": "2025-07-13T06:44:39Z",
                     "owner": "njucckevin",
                     "repo": "SeeClick",
-                    "stars": 495
+                    "stars": 494
                   }
                 }
               ]
@@ -699,7 +699,7 @@
                     "last_commit": "2026-07-16T20:18:37Z",
                     "owner": "google-research",
                     "repo": "android_world",
-                    "stars": 855
+                    "stars": 857
                   }
                 }
               ]
@@ -915,10 +915,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:00:03Z",
+                "last_commit": "2026-08-25T08:43:35Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186852
+                "stars": 186853
               }
             },
             {
@@ -933,7 +933,7 @@
                 "last_commit": "2026-08-25T02:37:35Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110409
+                "stars": 110451
               }
             },
             {
@@ -948,7 +948,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68139
+                "stars": 68140
               }
             },
             {
@@ -963,7 +963,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60614
+                "stars": 60622
               }
             },
             {
@@ -978,7 +978,7 @@
                 "last_commit": "2026-08-25T00:19:54Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22842
+                "stars": 22843
               }
             },
             {
@@ -1065,7 +1065,7 @@
                 "archived": false,
                 "id": 900152988,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:28:19Z",
+                "last_commit": "2026-08-25T09:56:22Z",
                 "owner": "nottelabs",
                 "repo": "notte",
                 "stars": 1996
@@ -1252,10 +1252,10 @@
                 "archived": false,
                 "id": 743140652,
                 "language": "Shell",
-                "last_commit": "2026-08-25T01:35:54Z",
+                "last_commit": "2026-08-25T09:31:02Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 53005
+                "stars": 53004
               }
             },
             {
@@ -1335,7 +1335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:21.157Z",
+    "last_updated": "2026-08-25T10:02:00.624Z",
     "original_repository": "trycua/acu",
     "original_repository_id": 912449106,
     "original_repository_sha": "2a9b3fbdda601d339c5e76095b83b8642a0a04b5",
