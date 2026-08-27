@@ -110,7 +110,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9144
+                    "stars": 9145
                   }
                 }
               ]
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-24T13:00:27Z",
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9566
+                    "stars": 9571
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-07-07T09:22:18Z",
                     "owner": "X-PLUG",
                     "repo": "MobileAgent",
-                    "stars": 9144
+                    "stars": 9145
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                     "last_commit": "2025-03-19T11:01:38Z",
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6862
+                    "stars": 6865
                   }
                 }
               ]
@@ -431,7 +431,7 @@
                     "last_commit": "2026-07-20T01:09:31Z",
                     "owner": "microsoft",
                     "repo": "OmniParser",
-                    "stars": 25312
+                    "stars": 25315
                   }
                 }
               ]
@@ -677,7 +677,7 @@
                     "last_commit": "2026-08-21T09:11:07Z",
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
-                    "stars": 3109
+                    "stars": 3110
                   }
                 }
               ]
@@ -765,7 +765,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1404
+                    "stars": 1405
                   }
                 }
               ]
@@ -831,7 +831,7 @@
                     "last_commit": "2026-04-13T19:58:37Z",
                     "owner": "microsoft",
                     "repo": "WindowsAgentArena",
-                    "stars": 890
+                    "stars": 891
                   }
                 }
               ]
@@ -915,10 +915,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:50:11Z",
+                "last_commit": "2026-08-27T19:51:31Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186920
+                "stars": 186933
               }
             },
             {
@@ -930,10 +930,10 @@
                 "archived": false,
                 "id": 881458615,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:41:37Z",
+                "last_commit": "2026-08-27T19:29:32Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 111368
+                "stars": 111434
               }
             },
             {
@@ -948,7 +948,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68162
+                "stars": 68170
               }
             },
             {
@@ -963,7 +963,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60647
+                "stars": 60657
               }
             },
             {
@@ -978,7 +978,7 @@
                 "last_commit": "2026-08-27T01:50:43Z",
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22857
+                "stars": 22865
               }
             },
             {
@@ -1053,7 +1053,7 @@
                 "last_commit": "2026-07-09T17:37:06Z",
                 "owner": "e2b-dev",
                 "repo": "open-computer-use",
-                "stars": 2224
+                "stars": 2225
               }
             },
             {
@@ -1065,7 +1065,7 @@
                 "archived": false,
                 "id": 900152988,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:54:06Z",
+                "last_commit": "2026-08-27T16:00:21Z",
                 "owner": "nottelabs",
                 "repo": "notte",
                 "stars": 1998
@@ -1110,10 +1110,10 @@
                 "archived": false,
                 "id": 627024850,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:53:41Z",
+                "last_commit": "2026-08-27T17:05:09Z",
                 "owner": "OpenAdaptAI",
                 "repo": "OpenAdapt",
-                "stars": 1702
+                "stars": 1705
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "last_commit": "2024-12-16T05:21:06Z",
                 "owner": "deedy",
                 "repo": "mac_computer_use",
-                "stars": 882
+                "stars": 883
               }
             },
             {
@@ -1255,7 +1255,7 @@
                 "last_commit": "2026-08-26T09:17:32Z",
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 53044
+                "stars": 53052
               }
             },
             {
@@ -1267,7 +1267,7 @@
                 "archived": false,
                 "id": 626637620,
                 "language": "Shell",
-                "last_commit": "2026-08-27T10:46:57Z",
+                "last_commit": "2026-08-27T12:42:45Z",
                 "owner": "qemus",
                 "repo": "qemu",
                 "stars": 2110
@@ -1335,7 +1335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:12.399Z",
+    "last_updated": "2026-08-27T19:55:50.886Z",
     "original_repository_info": {
       "archived": false,
       "id": 912449106,
