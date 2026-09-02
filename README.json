@@ -347,11 +347,11 @@
                     "id": 740316987,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T13:00:27Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-09-02T07:27:35Z",
+                    "open_issues": 80,
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9613,
+                    "stars": 9619,
                     "topics": [
                       "agent",
                       "automation",
@@ -519,7 +519,7 @@
                     "open_issues": 99,
                     "owner": "TencentQQGYLab",
                     "repo": "AppAgent",
-                    "stars": 6868,
+                    "stars": 6871,
                     "topics": [
                       "agent",
                       "chatgpt",
@@ -626,7 +626,7 @@
                     "open_issues": 230,
                     "owner": "microsoft",
                     "repo": "OmniParser",
-                    "stars": 25357,
+                    "stars": 25358,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:08.543Z"
@@ -872,7 +872,7 @@
                     "open_issues": 18,
                     "owner": "princeton-nlp",
                     "repo": "WebShop",
-                    "stars": 588,
+                    "stars": 589,
                     "topics": [
                       "decision-making",
                       "language",
@@ -995,7 +995,7 @@
                     "open_issues": 47,
                     "owner": "google-research",
                     "repo": "android_world",
-                    "stars": 870,
+                    "stars": 871,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:08.543Z"
@@ -1061,7 +1061,7 @@
                     "open_issues": 19,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 499,
+                    "stars": 502,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1105,7 +1105,7 @@
                     "open_issues": 52,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1415,
+                    "stars": 1418,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:08.543Z"
@@ -1319,11 +1319,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T13:59:21Z",
-                "open_issues": 530,
+                "last_commit": "2026-09-02T11:10:45Z",
+                "open_issues": 526,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187052,
+                "stars": 187076,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -1352,11 +1352,11 @@
                 "id": 881458615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T00:37:36Z",
-                "open_issues": 397,
+                "last_commit": "2026-09-02T02:25:43Z",
+                "open_issues": 400,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 111934,
+                "stars": 112047,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -1385,7 +1385,7 @@
                 "open_issues": 10,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68220,
+                "stars": 68218,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -1410,10 +1410,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
-                "open_issues": 1005,
+                "open_issues": 1030,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60735,
+                "stars": 60759,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -1441,11 +1441,11 @@
                 "id": 764723738,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T13:36:19Z",
-                "open_issues": 215,
+                "last_commit": "2026-09-02T10:29:58Z",
+                "open_issues": 216,
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 22901,
+                "stars": 22912,
                 "topics": [
                   "ai",
                   "api",
@@ -1545,7 +1545,7 @@
                 "open_issues": 104,
                 "owner": "lavague-ai",
                 "repo": "LaVague",
-                "stars": 6388,
+                "stars": 6387,
                 "topics": [
                   "ai",
                   "browser",
@@ -1613,7 +1613,7 @@
                 "open_issues": 19,
                 "owner": "e2b-dev",
                 "repo": "open-computer-use",
-                "stars": 2231,
+                "stars": 2233,
                 "topics": [
                   "agent",
                   "ai",
@@ -1637,11 +1637,11 @@
                 "id": 900152988,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T10:22:59Z",
+                "last_commit": "2026-09-02T13:39:54Z",
                 "open_issues": 11,
                 "owner": "nottelabs",
                 "repo": "notte",
-                "stars": 1999,
+                "stars": 2000,
                 "topics": [
                   "agent",
                   "ai",
@@ -1671,7 +1671,7 @@
                 "open_issues": 40,
                 "owner": "showlab",
                 "repo": "computer_use_ootb",
-                "stars": 1959,
+                "stars": 1958,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:08.543Z"
@@ -1713,7 +1713,7 @@
                 "open_issues": 4,
                 "owner": "OpenAdaptAI",
                 "repo": "OpenAdapt",
-                "stars": 1709,
+                "stars": 1710,
                 "topics": [
                   "automation-from-demonstration",
                   "browser-automation",
@@ -1778,7 +1778,7 @@
                 "open_issues": 9,
                 "owner": "suitedaces",
                 "repo": "computer-agent",
-                "stars": 682,
+                "stars": 683,
                 "topics": [
                   "ai",
                   "ai-tools",
@@ -1987,11 +1987,11 @@
                 "id": 743140652,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-29T22:28:42Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-02T09:18:44Z",
+                "open_issues": 21,
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 53118,
+                "stars": 53134,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -2018,10 +2018,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-28T17:29:50Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "qemus",
                 "repo": "qemu",
-                "stars": 2118,
+                "stars": 2119,
                 "topics": [
                   "docker",
                   "docker-image",
@@ -2047,8 +2047,8 @@
                 "id": 806216118,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T18:57:31Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-02T00:03:28Z",
+                "open_issues": 8,
                 "owner": "e2b-dev",
                 "repo": "desktop",
                 "stars": 1461,
@@ -2135,7 +2135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:15:24.158Z",
+    "last_updated": "2026-09-02T13:48:05.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.",
