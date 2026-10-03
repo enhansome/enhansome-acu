@@ -6,1293 +6,1304 @@
         {
           "children": [
             {
-              "node_type": "group",
-              "title": "Agent Workflow Memory",
-              "description": "(Sep. 2024)",
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "zorazrw/agent-workflow-memory",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "AWM: Agent Workflow Memory",
-                    "homepage": null,
-                    "id": 849046817,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-12-22T22:42:30Z",
-                    "open_issues": 4,
-                    "owner": "zorazrw",
-                    "repo": "agent-workflow-memory",
-                    "stars": 477,
-                    "topics": [
-                      "agent",
-                      "generalization",
-                      "web-navigation"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "The Impact of Element Ordering on LM Agent Performance",
-              "description": "(Sep. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Agent Workflow Memory",
+                  "description": "(Sep. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "zorazrw/agent-workflow-memory",
+                      "description": "zorazrw/agent-workflow-memory",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "AWM: Agent Workflow Memory",
+                        "homepage": null,
+                        "id": 849046817,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-12-22T22:42:30Z",
+                        "open_issues": 4,
+                        "owner": "zorazrw",
+                        "repo": "agent-workflow-memory",
+                        "stars": 477,
+                        "topics": [
+                          "agent",
+                          "generalization",
+                          "web-navigation"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "waynchi/gui-agent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 857942049,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-09-30T16:38:09Z",
-                    "open_issues": 0,
-                    "owner": "waynchi",
-                    "repo": "gui-agent",
-                    "stars": 9,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models",
-              "description": "(Aug. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "The Impact of Element Ordering on LM Agent Performance",
+                  "description": "(Sep. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "waynchi/gui-agent",
+                      "description": "waynchi/gui-agent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 857942049,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-09-30T16:38:09Z",
+                        "open_issues": 0,
+                        "owner": "waynchi",
+                        "repo": "gui-agent",
+                        "stars": 9,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "boxworld18/OpenWebAgent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A convenient framework for developing LLM- and LMM-based web agents.",
-                    "homepage": null,
-                    "id": 787853884,
-                    "language": "JavaScript",
-                    "license": null,
-                    "last_commit": "2024-06-22T02:51:25Z",
-                    "open_issues": 0,
-                    "owner": "boxworld18",
-                    "repo": "OpenWebAgent",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
-              "description": "(Jun. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models",
+                  "description": "(Aug. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "boxworld18/OpenWebAgent",
+                      "description": "boxworld18/OpenWebAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A convenient framework for developing LLM- and LMM-based web agents.",
+                        "homepage": null,
+                        "id": 787853884,
+                        "language": "JavaScript",
+                        "license": null,
+                        "last_commit": "2024-06-22T02:51:25Z",
+                        "open_issues": 0,
+                        "owner": "boxworld18",
+                        "repo": "OpenWebAgent",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "DigiRL-agent/digirl",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official repo for paper DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning.",
-                    "homepage": null,
-                    "id": 817660183,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-02-22T06:07:42Z",
-                    "open_issues": 4,
-                    "owner": "DigiRL-agent",
-                    "repo": "digirl",
-                    "stars": 396,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
-              "description": "(Jun. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+                  "description": "(Jun. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DigiRL-agent/digirl",
+                      "description": "DigiRL-agent/digirl",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official repo for paper DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning.",
+                        "homepage": null,
+                        "id": 817660183,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-02-22T06:07:42Z",
+                        "open_issues": 4,
+                        "owner": "DigiRL-agent",
+                        "repo": "digirl",
+                        "stars": 396,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "X-PLUG/MobileAgent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": " Mobile-Agent: The Powerful GUI Agent Family",
-                    "homepage": null,
-                    "id": 748674684,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-07-07T09:22:18Z",
-                    "open_issues": 196,
-                    "owner": "X-PLUG",
-                    "repo": "MobileAgent",
-                    "stars": 9268,
-                    "topics": [
-                      "agent",
-                      "android",
-                      "app",
-                      "automation",
-                      "copilot",
-                      "gui",
-                      "mllm",
-                      "mobile",
-                      "mobile-agents",
-                      "multimodal",
-                      "multimodal-agent",
-                      "multimodal-large-language-models"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "AutoWebGLM: Bootstrap and reinforce a large language model-based web navigating agent",
-              "description": "(Apr. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+                  "description": "(Jun. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "X-PLUG/MobileAgent",
+                      "description": "X-PLUG/MobileAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": " Mobile-Agent: The Powerful GUI Agent Family",
+                        "homepage": null,
+                        "id": 748674684,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-07-07T09:22:18Z",
+                        "open_issues": 196,
+                        "owner": "X-PLUG",
+                        "repo": "MobileAgent",
+                        "stars": 9272,
+                        "topics": [
+                          "agent",
+                          "android",
+                          "app",
+                          "automation",
+                          "copilot",
+                          "gui",
+                          "mllm",
+                          "mobile",
+                          "mobile-agents",
+                          "multimodal",
+                          "multimodal-agent",
+                          "multimodal-large-language-models"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "THUDM/WebGLM",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
-                    "homepage": null,
-                    "id": 646488027,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-03-25T03:31:42Z",
-                    "open_issues": 52,
-                    "owner": "THUDM",
-                    "repo": "WebGLM",
-                    "stars": 1602,
-                    "topics": [
-                      "chatgpt",
-                      "llm",
-                      "rlhf",
-                      "webglm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
-              "description": "(Mar. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "AutoWebGLM: Bootstrap and reinforce a large language model-based web navigating agent",
+                  "description": "(Apr. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "THUDM/WebGLM",
+                      "description": "THUDM/WebGLM",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
+                        "homepage": null,
+                        "id": 646488027,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-03-25T03:31:42Z",
+                        "open_issues": 52,
+                        "owner": "THUDM",
+                        "repo": "WebGLM",
+                        "stars": 1602,
+                        "topics": [
+                          "chatgpt",
+                          "llm",
+                          "rlhf",
+                          "webglm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "BAAI-Agents/Cradle",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
-                    "homepage": "https://baai-agents.github.io/Cradle/",
-                    "id": 766445602,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-11-07T04:58:20Z",
-                    "open_issues": 23,
-                    "owner": "BAAI-Agents",
-                    "repo": "Cradle",
-                    "stars": 2595,
-                    "topics": [
-                      "ai",
-                      "ai-agent",
-                      "ai-agents-framework",
-                      "computer-control",
-                      "cradle",
-                      "foundation-agent",
-                      "gcc",
-                      "general-computer-control",
-                      "generative-ai",
-                      "grounding",
-                      "large-language-models",
-                      "llm",
-                      "lmm",
-                      "multimodality",
-                      "personoid",
-                      "vision-language-model",
-                      "vlm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
-              "description": "(Mar. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+                  "description": "(Mar. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "BAAI-Agents/Cradle",
+                      "description": "BAAI-Agents/Cradle",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
+                        "homepage": "https://baai-agents.github.io/Cradle/",
+                        "id": 766445602,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-11-07T04:58:20Z",
+                        "open_issues": 23,
+                        "owner": "BAAI-Agents",
+                        "repo": "Cradle",
+                        "stars": 2595,
+                        "topics": [
+                          "ai",
+                          "ai-agent",
+                          "ai-agents-framework",
+                          "computer-control",
+                          "cradle",
+                          "foundation-agent",
+                          "gcc",
+                          "general-computer-control",
+                          "generative-ai",
+                          "grounding",
+                          "large-language-models",
+                          "llm",
+                          "lmm",
+                          "multimodality",
+                          "personoid",
+                          "vision-language-model",
+                          "vlm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "IMNearth/CoAT",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official implementation for \"Android in the Zoo: Chain-of-Action-Thought for GUI Agents\" (Findings of EMNLP 2024)",
-                    "homepage": null,
-                    "id": 742366348,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-10-14T23:46:31Z",
-                    "open_issues": 5,
-                    "owner": "IMNearth",
-                    "repo": "CoAT",
-                    "stars": 104,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model",
-              "description": "(Feb. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+                  "description": "(Mar. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "IMNearth/CoAT",
+                      "description": "IMNearth/CoAT",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation for \"Android in the Zoo: Chain-of-Action-Thought for GUI Agents\" (Findings of EMNLP 2024)",
+                        "homepage": null,
+                        "id": 742366348,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2024-10-14T23:46:31Z",
+                        "open_issues": 5,
+                        "owner": "IMNearth",
+                        "repo": "CoAT",
+                        "stars": 104,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "niuzaisheng/ScreenAgent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)",
-                    "homepage": "https://arxiv.org/abs/2402.07945",
-                    "id": 743418723,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-11-25T02:51:51Z",
-                    "open_issues": 21,
-                    "owner": "niuzaisheng",
-                    "repo": "ScreenAgent",
-                    "stars": 619,
-                    "topics": [
-                      "agent",
-                      "ai",
-                      "llm",
-                      "vlm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement",
-              "description": "(Feb. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model",
+                  "description": "(Feb. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "niuzaisheng/ScreenAgent",
+                      "description": "niuzaisheng/ScreenAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)",
+                        "homepage": "https://arxiv.org/abs/2402.07945",
+                        "id": 743418723,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-11-25T02:51:51Z",
+                        "open_issues": 21,
+                        "owner": "niuzaisheng",
+                        "repo": "ScreenAgent",
+                        "stars": 619,
+                        "topics": [
+                          "agent",
+                          "ai",
+                          "llm",
+                          "vlm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "OS-Copilot/OS-Copilot",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks. ",
-                    "homepage": null,
-                    "id": 751635025,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-09-09T02:11:13Z",
-                    "open_issues": 21,
-                    "owner": "OS-Copilot",
-                    "repo": "OS-Copilot",
-                    "stars": 1793,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
-              "description": "(Feb. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement",
+                  "description": "(Feb. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OS-Copilot/OS-Copilot",
+                      "description": "OS-Copilot/OS-Copilot",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks. ",
+                        "homepage": null,
+                        "id": 751635025,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-09-09T02:11:13Z",
+                        "open_issues": 21,
+                        "owner": "OS-Copilot",
+                        "repo": "OS-Copilot",
+                        "stars": 1794,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "microsoft/UFO",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "UFO³: Weaving the Digital Agent Galaxy",
-                    "homepage": "https://microsoft.github.io/UFO/",
-                    "id": 740316987,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-29T07:53:56Z",
-                    "open_issues": 86,
-                    "owner": "microsoft",
-                    "repo": "UFO",
-                    "stars": 9893,
-                    "topics": [
-                      "agent",
-                      "automation",
-                      "copilot",
-                      "gui",
-                      "llm",
-                      "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
-              "description": "(Jan. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
+                  "description": "(Feb. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "microsoft/UFO",
+                      "description": "microsoft/UFO",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "UFO³: Weaving the Digital Agent Galaxy",
+                        "homepage": "https://microsoft.github.io/UFO/",
+                        "id": 740316987,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-29T07:53:56Z",
+                        "open_issues": 86,
+                        "owner": "microsoft",
+                        "repo": "UFO",
+                        "stars": 9896,
+                        "topics": [
+                          "agent",
+                          "automation",
+                          "copilot",
+                          "gui",
+                          "llm",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "OSU-NLP-Group/SeeAct",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICML'24] SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
-                    "homepage": "https://osu-nlp-group.github.io/SeeAct/",
-                    "id": 734457830,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2025-02-03T02:09:18Z",
-                    "open_issues": 15,
-                    "owner": "OSU-NLP-Group",
-                    "repo": "SeeAct",
-                    "stars": 852,
-                    "topics": [
-                      "agent"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
-              "description": "(Jan. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+                  "description": "(Jan. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OSU-NLP-Group/SeeAct",
+                      "description": "OSU-NLP-Group/SeeAct",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICML'24] SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
+                        "homepage": "https://osu-nlp-group.github.io/SeeAct/",
+                        "id": 734457830,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2025-02-03T02:09:18Z",
+                        "open_issues": 15,
+                        "owner": "OSU-NLP-Group",
+                        "repo": "SeeAct",
+                        "stars": 852,
+                        "topics": [
+                          "agent"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "X-PLUG/MobileAgent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": " Mobile-Agent: The Powerful GUI Agent Family",
-                    "homepage": null,
-                    "id": 748674684,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-07-07T09:22:18Z",
-                    "open_issues": 196,
-                    "owner": "X-PLUG",
-                    "repo": "MobileAgent",
-                    "stars": 9268,
-                    "topics": [
-                      "agent",
-                      "android",
-                      "app",
-                      "automation",
-                      "copilot",
-                      "gui",
-                      "mllm",
-                      "mobile",
-                      "mobile-agents",
-                      "multimodal",
-                      "multimodal-agent",
-                      "multimodal-large-language-models"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
-              "description": "(Jan. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+                  "description": "(Jan. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "X-PLUG/MobileAgent",
+                      "description": "X-PLUG/MobileAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": " Mobile-Agent: The Powerful GUI Agent Family",
+                        "homepage": null,
+                        "id": 748674684,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-07-07T09:22:18Z",
+                        "open_issues": 196,
+                        "owner": "X-PLUG",
+                        "repo": "MobileAgent",
+                        "stars": 9272,
+                        "topics": [
+                          "agent",
+                          "android",
+                          "app",
+                          "automation",
+                          "copilot",
+                          "gui",
+                          "mllm",
+                          "mobile",
+                          "mobile-agents",
+                          "multimodal",
+                          "multimodal-agent",
+                          "multimodal-large-language-models"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "MinorJerry/WebVoyager",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for \"WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models\"",
-                    "homepage": null,
-                    "id": 747508951,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2024-03-04T03:36:39Z",
-                    "open_issues": 12,
-                    "owner": "MinorJerry",
-                    "repo": "WebVoyager",
-                    "stars": 1127,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "CogAgent: A Visual Language Model for GUI Agents",
-              "description": "(Dec. 2023)",
-              "children": [
+                  "node_type": "group",
+                  "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+                  "description": "(Jan. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MinorJerry/WebVoyager",
+                      "description": "MinorJerry/WebVoyager",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for \"WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models\"",
+                        "homepage": null,
+                        "id": 747508951,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2024-03-04T03:36:39Z",
+                        "open_issues": 12,
+                        "owner": "MinorJerry",
+                        "repo": "WebVoyager",
+                        "stars": 1127,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "zai-org/CogVLM",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
-                    "homepage": null,
-                    "id": 692935244,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2024-05-29T10:01:33Z",
-                    "open_issues": 69,
-                    "owner": "zai-org",
-                    "repo": "CogVLM",
-                    "stars": 6745,
-                    "topics": [
-                      "cross-modality",
-                      "language-model",
-                      "multi-modal",
-                      "pretrained-models",
-                      "visual-language-models"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "AppAgent: Multimodal Agents as Smartphone Users",
-              "description": "(Dec. 2023)",
-              "children": [
+                  "node_type": "group",
+                  "title": "CogAgent: A Visual Language Model for GUI Agents",
+                  "description": "(Dec. 2023)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "zai-org/CogVLM",
+                      "description": "zai-org/CogVLM",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+                        "homepage": null,
+                        "id": 692935244,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2024-05-29T10:01:33Z",
+                        "open_issues": 69,
+                        "owner": "zai-org",
+                        "repo": "CogVLM",
+                        "stars": 6745,
+                        "topics": [
+                          "cross-modality",
+                          "language-model",
+                          "multi-modal",
+                          "pretrained-models",
+                          "visual-language-models"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "TencentQQGYLab/AppAgent",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
-                    "homepage": "https://appagent-official.github.io/",
-                    "id": 733899994,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-03-19T11:01:38Z",
-                    "open_issues": 99,
-                    "owner": "TencentQQGYLab",
-                    "repo": "AppAgent",
-                    "stars": 6898,
-                    "topics": [
-                      "agent",
-                      "chatgpt",
-                      "generative-ai",
-                      "gpt4",
-                      "gpt4v",
-                      "llm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "LASER: LLM Agent with State-Space Exploration for Web Navigation",
-              "description": "(Sep. 2023)",
-              "children": [
+                  "node_type": "group",
+                  "title": "AppAgent: Multimodal Agents as Smartphone Users",
+                  "description": "(Dec. 2023)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "TencentQQGYLab/AppAgent",
+                      "description": "TencentQQGYLab/AppAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+                        "homepage": "https://appagent-official.github.io/",
+                        "id": 733899994,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-03-19T11:01:38Z",
+                        "open_issues": 99,
+                        "owner": "TencentQQGYLab",
+                        "repo": "AppAgent",
+                        "stars": 6898,
+                        "topics": [
+                          "agent",
+                          "chatgpt",
+                          "generative-ai",
+                          "gpt4",
+                          "gpt4v",
+                          "llm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "Mayer123/LASER",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for the paper \"LASER: LLM Agent with State-Space Exploration for Web Navigation\"",
-                    "homepage": null,
-                    "id": 691869204,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2023-09-26T01:17:36Z",
-                    "open_issues": 0,
-                    "owner": "Mayer123",
-                    "repo": "LASER",
-                    "stars": 37,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "AndroidEnv: A Reinforcement Learning Platform for Android",
-              "description": "(May 2021)",
-              "children": [
+                  "node_type": "group",
+                  "title": "LASER: LLM Agent with State-Space Exploration for Web Navigation",
+                  "description": "(Sep. 2023)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Mayer123/LASER",
+                      "description": "Mayer123/LASER",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for the paper \"LASER: LLM Agent with State-Space Exploration for Web Navigation\"",
+                        "homepage": null,
+                        "id": 691869204,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2023-09-26T01:17:36Z",
+                        "open_issues": 0,
+                        "owner": "Mayer123",
+                        "repo": "LASER",
+                        "stars": 37,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "google-deepmind/android_env",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "RL research on Android devices.",
-                    "homepage": null,
-                    "id": 360111507,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T16:58:57Z",
-                    "open_issues": 14,
-                    "owner": "google-deepmind",
-                    "repo": "android_env",
-                    "stars": 1244,
-                    "topics": [
-                      "android",
-                      "reinforcement-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
+                  "node_type": "group",
+                  "title": "AndroidEnv: A Reinforcement Learning Platform for Android",
+                  "description": "(May 2021)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "google-deepmind/android_env",
+                      "description": "google-deepmind/android_env",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "RL research on Android devices.",
+                        "homepage": null,
+                        "id": 360111507,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-25T16:58:57Z",
+                        "open_issues": 14,
+                        "owner": "google-deepmind",
+                        "repo": "android_env",
+                        "stars": 1244,
+                        "topics": [
+                          "android",
+                          "reinforcement-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Frameworks & Models"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Frameworks & Models"
-        }
-      ],
-      "title": "Frameworks & Models"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "children": [
             {
-              "node_type": "group",
-              "title": "OmniParser for Pure Vision Based GUI Agent",
-              "description": "(Aug. 2024)",
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "microsoft/OmniParser",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A simple screen parsing tool towards pure vision based GUI agent",
-                    "homepage": null,
-                    "id": 860252770,
-                    "language": "Jupyter Notebook",
-                    "license": "CC-BY-4.0",
-                    "last_commit": "2026-07-20T01:09:31Z",
-                    "open_issues": 231,
-                    "owner": "microsoft",
-                    "repo": "OmniParser",
-                    "stars": 25485,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs",
-              "description": "(Apr. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "OmniParser for Pure Vision Based GUI Agent",
+                  "description": "(Aug. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "microsoft/OmniParser",
+                      "description": "microsoft/OmniParser",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A simple screen parsing tool towards pure vision based GUI agent",
+                        "homepage": null,
+                        "id": 860252770,
+                        "language": "Jupyter Notebook",
+                        "license": "CC-BY-4.0",
+                        "last_commit": "2026-07-20T01:09:31Z",
+                        "open_issues": 231,
+                        "owner": "microsoft",
+                        "repo": "OmniParser",
+                        "stars": 25484,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "apple-aiml-research/ml-ferret",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 701540574,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T15:56:47Z",
-                    "open_issues": 8,
-                    "owner": "apple-aiml-research",
-                    "repo": "ml-ferret",
-                    "stars": 8659,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
-              "description": "(Jan. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs",
+                  "description": "(Apr. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "apple-aiml-research/ml-ferret",
+                      "description": "apple-aiml-research/ml-ferret",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 701540574,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-11T15:56:47Z",
+                        "open_issues": 8,
+                        "owner": "apple-aiml-research",
+                        "repo": "ml-ferret",
+                        "stars": 8657,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "njucckevin/SeeClick",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The model, data and code for the visual GUI Agent SeeClick",
-                    "homepage": null,
-                    "id": 746548151,
-                    "language": "HTML",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-07-13T06:44:39Z",
-                    "open_issues": 4,
-                    "owner": "njucckevin",
-                    "repo": "SeeClick",
-                    "stars": 493,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
-              "description": "(Oct. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+                  "description": "(Jan. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "njucckevin/SeeClick",
+                      "description": "njucckevin/SeeClick",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The model, data and code for the visual GUI Agent SeeClick",
+                        "homepage": null,
+                        "id": 746548151,
+                        "language": "HTML",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-07-13T06:44:39Z",
+                        "open_issues": 4,
+                        "owner": "njucckevin",
+                        "repo": "SeeClick",
+                        "stars": 493,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "OSU-NLP-Group/UGround",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICLR'25 Oral] UGround: Universal GUI Visual Grounding for GUI Agents",
-                    "homepage": "https://osu-nlp-group.github.io/UGround/",
-                    "id": 837299429,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-08-24T03:53:48Z",
-                    "open_issues": 7,
-                    "owner": "OSU-NLP-Group",
-                    "repo": "UGround",
-                    "stars": 321,
-                    "topics": [
-                      "artificial-intelligence",
-                      "gui-agents",
-                      "web-agents"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "OS-ATLAS: Foundation Action Model for Generalist GUI Agents",
-              "description": "(Oct. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+                  "description": "(Oct. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OSU-NLP-Group/UGround",
+                      "description": "OSU-NLP-Group/UGround",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICLR'25 Oral] UGround: Universal GUI Visual Grounding for GUI Agents",
+                        "homepage": "https://osu-nlp-group.github.io/UGround/",
+                        "id": 837299429,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-08-24T03:53:48Z",
+                        "open_issues": 7,
+                        "owner": "OSU-NLP-Group",
+                        "repo": "UGround",
+                        "stars": 321,
+                        "topics": [
+                          "artificial-intelligence",
+                          "gui-agents",
+                          "web-agents"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "OS-Copilot/OS-Atlas",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "OS-ATLAS: A Foundation Action Model For Generalist GUI Agents",
-                    "homepage": null,
-                    "id": 880798084,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-04-20T15:59:31Z",
-                    "open_issues": 20,
-                    "owner": "OS-Copilot",
-                    "repo": "OS-Atlas",
-                    "stars": 456,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
+                  "node_type": "group",
+                  "title": "OS-ATLAS: Foundation Action Model for Generalist GUI Agents",
+                  "description": "(Oct. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OS-Copilot/OS-Atlas",
+                      "description": "OS-Copilot/OS-Atlas",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "OS-ATLAS: A Foundation Action Model For Generalist GUI Agents",
+                        "homepage": null,
+                        "id": 880798084,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-04-20T15:59:31Z",
+                        "open_issues": 20,
+                        "owner": "OS-Copilot",
+                        "repo": "OS-Atlas",
+                        "stars": 456,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "UI Grounding"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "UI Grounding"
-        }
-      ],
-      "title": "UI Grounding"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "children": [
             {
-              "node_type": "group",
-              "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
-              "description": "(Dec. 2024)",
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "OS-Copilot/OS-Genesis",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ACL 2025] Code and data for OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
-                    "homepage": "https://qiushisun.github.io/OS-Genesis-Home/",
-                    "id": 905633431,
-                    "language": "Jupyter Notebook",
-                    "license": null,
-                    "last_commit": "2025-10-08T18:10:24Z",
-                    "open_issues": 18,
-                    "owner": "OS-Copilot",
-                    "repo": "OS-Genesis",
-                    "stars": 190,
-                    "topics": [
-                      "agents",
-                      "data-synthesis",
-                      "gui",
-                      "multimodal"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Multi-Turn Mind2Web: On the Multi-turn Instruction Following",
-              "description": "(Feb. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+                  "description": "(Dec. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OS-Copilot/OS-Genesis",
+                      "description": "OS-Copilot/OS-Genesis",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ACL 2025] Code and data for OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+                        "homepage": "https://qiushisun.github.io/OS-Genesis-Home/",
+                        "id": 905633431,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2025-10-08T18:10:24Z",
+                        "open_issues": 18,
+                        "owner": "OS-Copilot",
+                        "repo": "OS-Genesis",
+                        "stars": 190,
+                        "topics": [
+                          "agents",
+                          "data-synthesis",
+                          "gui",
+                          "multimodal"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "magicgh/Self-MAP",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ACL 2024] On the Multi-turn Instruction Following for Conversational Web Agents",
-                    "homepage": null,
-                    "id": 761794566,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-10-12T16:10:50Z",
-                    "open_issues": 0,
-                    "owner": "magicgh",
-                    "repo": "Self-MAP",
-                    "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Mind2Web: Towards a Generalist Agent for the Web",
-              "description": "(Jun. 2023)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Multi-Turn Mind2Web: On the Multi-turn Instruction Following",
+                  "description": "(Feb. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "magicgh/Self-MAP",
+                      "description": "magicgh/Self-MAP",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ACL 2024] On the Multi-turn Instruction Following for Conversational Web Agents",
+                        "homepage": null,
+                        "id": 761794566,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-10-12T16:10:50Z",
+                        "open_issues": 0,
+                        "owner": "magicgh",
+                        "repo": "Self-MAP",
+                        "stars": 17,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "OSU-NLP-Group/Mind2Web",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents",
-                    "homepage": "https://osu-nlp-group.github.io/Mind2Web/",
-                    "id": 631014879,
-                    "language": "Jupyter Notebook",
-                    "license": "MIT",
-                    "last_commit": "2025-11-05T00:38:41Z",
-                    "open_issues": 14,
-                    "owner": "OSU-NLP-Group",
-                    "repo": "Mind2Web",
-                    "stars": 1030,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "WebShop: Towards Scalable Real-World Web Interaction",
-              "description": "(Jul. 2022)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Mind2Web: Towards a Generalist Agent for the Web",
+                  "description": "(Jun. 2023)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OSU-NLP-Group/Mind2Web",
+                      "description": "OSU-NLP-Group/Mind2Web",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents",
+                        "homepage": "https://osu-nlp-group.github.io/Mind2Web/",
+                        "id": 631014879,
+                        "language": "Jupyter Notebook",
+                        "license": "MIT",
+                        "last_commit": "2025-11-05T00:38:41Z",
+                        "open_issues": 14,
+                        "owner": "OSU-NLP-Group",
+                        "repo": "Mind2Web",
+                        "stars": 1030,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "princeton-nlp/WebShop",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
-                    "homepage": "https://webshop-pnlp.github.io",
-                    "id": 514715868,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-09-06T04:00:38Z",
-                    "open_issues": 18,
-                    "owner": "princeton-nlp",
-                    "repo": "WebShop",
-                    "stars": 599,
-                    "topics": [
-                      "decision-making",
-                      "language",
-                      "language-grounding",
-                      "ml",
-                      "nlp",
-                      "rl",
-                      "rl-environment",
-                      "shopping",
-                      "sim-to-real",
-                      "web-based"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
+                  "node_type": "group",
+                  "title": "WebShop: Towards Scalable Real-World Web Interaction",
+                  "description": "(Jul. 2022)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "princeton-nlp/WebShop",
+                      "description": "princeton-nlp/WebShop",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+                        "homepage": "https://webshop-pnlp.github.io",
+                        "id": 514715868,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-09-06T04:00:38Z",
+                        "open_issues": 18,
+                        "owner": "princeton-nlp",
+                        "repo": "WebShop",
+                        "stars": 599,
+                        "topics": [
+                          "decision-making",
+                          "language",
+                          "language-grounding",
+                          "ml",
+                          "nlp",
+                          "rl",
+                          "rl-environment",
+                          "shopping",
+                          "sim-to-real",
+                          "web-based"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dataset"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Dataset"
-        }
-      ],
-      "title": "Dataset"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "children": [
             {
-              "node_type": "group",
-              "title": "A3: Android Agent Arena for Mobile GUI Agents",
-              "description": "(Jan. 2025)",
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "AndroidArenaAgent/AndroidArena",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 752720208,
-                    "language": "HTML",
-                    "license": null,
-                    "last_commit": "2024-04-11T08:03:34Z",
-                    "open_issues": 1,
-                    "owner": "AndroidArenaAgent",
-                    "repo": "AndroidArena",
-                    "stars": 48,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
-              "description": "(Apr. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "A3: Android Agent Arena for Mobile GUI Agents",
+                  "description": "(Jan. 2025)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "AndroidArenaAgent/AndroidArena",
+                      "description": "AndroidArenaAgent/AndroidArena",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 752720208,
+                        "language": "HTML",
+                        "license": null,
+                        "last_commit": "2024-04-11T08:03:34Z",
+                        "open_issues": 1,
+                        "owner": "AndroidArenaAgent",
+                        "repo": "AndroidArena",
+                        "stars": 48,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "xlang-ai/OSWorld",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
-                    "homepage": "https://os-world.github.io",
-                    "id": 705433049,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T16:08:47Z",
-                    "open_issues": 211,
-                    "owner": "xlang-ai",
-                    "repo": "OSWorld",
-                    "stars": 3170,
-                    "topics": [
-                      "agent",
-                      "artificial-intelligence",
-                      "benchmark",
-                      "cli",
-                      "code-generation",
-                      "gui",
-                      "language-model",
-                      "large-action-model",
-                      "llm",
-                      "multimodal",
-                      "natural-language-processing",
-                      "reinforcement-learning",
-                      "rpa",
-                      "vlm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
-              "description": "(May. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+                  "description": "(Apr. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "xlang-ai/OSWorld",
+                      "description": "xlang-ai/OSWorld",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+                        "homepage": "https://os-world.github.io",
+                        "id": 705433049,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-14T16:08:47Z",
+                        "open_issues": 212,
+                        "owner": "xlang-ai",
+                        "repo": "OSWorld",
+                        "stars": 3171,
+                        "topics": [
+                          "agent",
+                          "artificial-intelligence",
+                          "benchmark",
+                          "cli",
+                          "code-generation",
+                          "gui",
+                          "language-model",
+                          "large-action-model",
+                          "llm",
+                          "multimodal",
+                          "natural-language-processing",
+                          "reinforcement-learning",
+                          "rpa",
+                          "vlm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "google-research/android_world",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "AndroidWorld is an environment and benchmark for autonomous agents",
-                    "homepage": null,
-                    "id": 800171422,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T09:14:55Z",
-                    "open_issues": 52,
-                    "owner": "google-research",
-                    "repo": "android_world",
-                    "stars": 940,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
-              "description": "(Jul. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+                  "description": "(May. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "google-research/android_world",
+                      "description": "google-research/android_world",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "AndroidWorld is an environment and benchmark for autonomous agents",
+                        "homepage": null,
+                        "id": 800171422,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-29T09:14:55Z",
+                        "open_issues": 52,
+                        "owner": "google-research",
+                        "repo": "android_world",
+                        "stars": 940,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "xlang-ai/Spider2-V",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2024] Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
-                    "homepage": "https://spider2-v.github.io",
-                    "id": 784033470,
-                    "language": "Jupyter Notebook",
-                    "license": "Apache-2.0",
-                    "last_commit": "2024-08-26T17:41:17Z",
-                    "open_issues": 1,
-                    "owner": "xlang-ai",
-                    "repo": "Spider2-V",
-                    "stars": 153,
-                    "topics": [
-                      "agent",
-                      "artificial-intelligence",
-                      "code-generation",
-                      "data-science-and-engineering",
-                      "gui",
-                      "llm",
-                      "multi-modal",
-                      "natural-language-processing",
-                      "vlm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
-              "description": "(Jul. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+                  "description": "(Jul. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "xlang-ai/Spider2-V",
+                      "description": "xlang-ai/Spider2-V",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2024] Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+                        "homepage": "https://spider2-v.github.io",
+                        "id": 784033470,
+                        "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
+                        "last_commit": "2024-08-26T17:41:17Z",
+                        "open_issues": 1,
+                        "owner": "xlang-ai",
+                        "repo": "Spider2-V",
+                        "stars": 153,
+                        "topics": [
+                          "agent",
+                          "artificial-intelligence",
+                          "code-generation",
+                          "data-science-and-engineering",
+                          "gui",
+                          "llm",
+                          "multi-modal",
+                          "natural-language-processing",
+                          "vlm"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "StonyBrookNLP/appworld",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.",
-                    "homepage": "https://appworld.dev/",
-                    "id": 819144961,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T05:47:04Z",
-                    "open_issues": 16,
-                    "owner": "StonyBrookNLP",
-                    "repo": "appworld",
-                    "stars": 525,
-                    "topics": [
-                      "acl-2024",
-                      "ai-agents",
-                      "ai-apis",
-                      "ai-assistants",
-                      "ai-environment",
-                      "ai-planning",
-                      "autonomous-agents",
-                      "coding-agents",
-                      "function-calling",
-                      "interactive-coding",
-                      "llm",
-                      "llm-agents",
-                      "nlp-datasets",
-                      "nlp-machine-learning",
-                      "tool-usage"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-              "description": "(Jun. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+                  "description": "(Jul. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "StonyBrookNLP/appworld",
+                      "description": "StonyBrookNLP/appworld",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.",
+                        "homepage": "https://appworld.dev/",
+                        "id": 819144961,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-04T05:47:04Z",
+                        "open_issues": 16,
+                        "owner": "StonyBrookNLP",
+                        "repo": "appworld",
+                        "stars": 525,
+                        "topics": [
+                          "acl-2024",
+                          "ai-agents",
+                          "ai-apis",
+                          "ai-assistants",
+                          "ai-environment",
+                          "ai-planning",
+                          "autonomous-agents",
+                          "coding-agents",
+                          "function-calling",
+                          "interactive-coding",
+                          "llm",
+                          "llm-agents",
+                          "nlp-datasets",
+                          "nlp-machine-learning",
+                          "tool-usage"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "sierra-research/tau-bench",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code and Data for Tau-Bench",
-                    "homepage": null,
-                    "id": 811477986,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-03-18T17:36:06Z",
-                    "open_issues": 55,
-                    "owner": "sierra-research",
-                    "repo": "tau-bench",
-                    "stars": 1454,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents",
-              "description": "(Jun. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+                  "description": "(Jun. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "sierra-research/tau-bench",
+                      "description": "sierra-research/tau-bench",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code and Data for Tau-Bench",
+                        "homepage": null,
+                        "id": 811477986,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-03-18T17:36:06Z",
+                        "open_issues": 55,
+                        "owner": "sierra-research",
+                        "repo": "tau-bench",
+                        "stars": 1454,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "MobileAgentBench/mobile-agent-bench",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 813935001,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-09-30T05:03:17Z",
-                    "open_issues": 2,
-                    "owner": "MobileAgentBench",
-                    "repo": "mobile-agent-bench",
-                    "stars": 37,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
-              "description": "(Jan. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents",
+                  "description": "(Jun. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MobileAgentBench/mobile-agent-bench",
+                      "description": "MobileAgentBench/mobile-agent-bench",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 813935001,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2024-09-30T05:03:17Z",
+                        "open_issues": 2,
+                        "owner": "MobileAgentBench",
+                        "repo": "mobile-agent-bench",
+                        "stars": 37,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "web-arena-x/visualwebarena",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "VisualWebArena is a benchmark for multimodal agents.",
-                    "homepage": "https://jykoh.com/vwa",
-                    "id": 747496066,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-11-09T00:47:00Z",
-                    "open_issues": 28,
-                    "owner": "web-arena-x",
-                    "repo": "visualwebarena",
-                    "stars": 488,
-                    "topics": [
-                      "agents",
-                      "llm",
-                      "multimodal"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale",
-              "description": "(Sep. 2024)",
-              "children": [
+                  "node_type": "group",
+                  "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+                  "description": "(Jan. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "web-arena-x/visualwebarena",
+                      "description": "web-arena-x/visualwebarena",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VisualWebArena is a benchmark for multimodal agents.",
+                        "homepage": "https://jykoh.com/vwa",
+                        "id": 747496066,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-11-09T00:47:00Z",
+                        "open_issues": 28,
+                        "owner": "web-arena-x",
+                        "repo": "visualwebarena",
+                        "stars": 488,
+                        "topics": [
+                          "agents",
+                          "llm",
+                          "multimodal"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "microsoft/WindowsAgentArena",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
-                    "homepage": "https://microsoft.github.io/WindowsAgentArena",
-                    "id": 835317697,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-04-13T19:58:37Z",
-                    "open_issues": 39,
-                    "owner": "microsoft",
-                    "repo": "WindowsAgentArena",
-                    "stars": 904,
-                    "topics": [
-                      "agentic",
-                      "ai",
-                      "ai-agent",
-                      "ai-benchmark",
-                      "ai-research",
-                      "computer",
-                      "computer-use",
-                      "desktop-agent",
-                      "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction",
-              "description": "(May. 2023)",
-              "children": [
+                  "node_type": "group",
+                  "title": "Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale",
+                  "description": "(Sep. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "microsoft/WindowsAgentArena",
+                      "description": "microsoft/WindowsAgentArena",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+                        "homepage": "https://microsoft.github.io/WindowsAgentArena",
+                        "id": 835317697,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-04-13T19:58:37Z",
+                        "open_issues": 39,
+                        "owner": "microsoft",
+                        "repo": "WindowsAgentArena",
+                        "stars": 904,
+                        "topics": [
+                          "agentic",
+                          "ai",
+                          "ai-agent",
+                          "ai-benchmark",
+                          "ai-research",
+                          "computer",
+                          "computer-use",
+                          "desktop-agent",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
+                },
                 {
-                  "node_type": "item",
-                  "title": "X-LANCE/Mobile-Env",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Universal Platform for Training and Evaluation of Mobile Interaction",
-                    "homepage": null,
-                    "id": 606338788,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-09-24T06:22:12Z",
-                    "open_issues": 1,
-                    "owner": "X-LANCE",
-                    "repo": "Mobile-Env",
-                    "stars": 64,
-                    "topics": [
-                      "decision-making",
-                      "information-ui",
-                      "infoui",
-                      "interaction-platform",
-                      "nlp",
-                      "rl-environments",
-                      "rl-platform"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
+                  "node_type": "group",
+                  "title": "Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction",
+                  "description": "(May. 2023)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "X-LANCE/Mobile-Env",
+                      "description": "X-LANCE/Mobile-Env",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A Universal Platform for Training and Evaluation of Mobile Interaction",
+                        "homepage": null,
+                        "id": 606338788,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-09-24T06:22:12Z",
+                        "open_issues": 1,
+                        "owner": "X-LANCE",
+                        "repo": "Mobile-Env",
+                        "stars": 64,
+                        "topics": [
+                          "decision-making",
+                          "information-ui",
+                          "infoui",
+                          "interaction-platform",
+                          "nlp",
+                          "rl-environments",
+                          "rl-platform"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Benchmark"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Benchmark"
-        }
-      ],
-      "title": "Benchmark"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "children": [
             {
-              "node_type": "group",
-              "title": "Attacking Vision-Language Computer Agents via Pop-ups",
-              "description": "(Nov. 2024)",
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "SALT-NLP/PopupAttack",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code repo for the paper: Attacking Vision-Language Computer Agents via Pop-ups",
-                    "homepage": "https://arxiv.org/abs/2411.02391",
-                    "id": 883420981,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-12-23T15:41:21Z",
-                    "open_issues": 1,
-                    "owner": "SALT-NLP",
-                    "repo": "PopupAttack",
-                    "stars": 53,
-                    "topics": [
-                      "attack",
-                      "claude-3-5-sonnet",
-                      "computer-use",
-                      "llm-agent",
-                      "pop-up",
-                      "vision-language-model"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:58:08.543Z"
+                  "node_type": "group",
+                  "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+                  "description": "(Nov. 2024)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SALT-NLP/PopupAttack",
+                      "description": "SALT-NLP/PopupAttack",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code repo for the paper: Attacking Vision-Language Computer Agents via Pop-ups",
+                        "homepage": "https://arxiv.org/abs/2411.02391",
+                        "id": 883420981,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2024-12-23T15:41:21Z",
+                        "open_issues": 1,
+                        "owner": "SALT-NLP",
+                        "repo": "PopupAttack",
+                        "stars": 53,
+                        "topics": [
+                          "attack",
+                          "claude-3-5-sonnet",
+                          "computer-use",
+                          "llm-agent",
+                          "pop-up",
+                          "vision-language-model"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T20:58:08.543Z"
+                    }
+                  ]
                 }
-              ]
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Safety"
             }
           ],
           "description": null,
@@ -1300,7 +1311,7 @@
           "title": "Safety"
         }
       ],
-      "title": "Safety"
+      "title": "Papers"
     },
     {
       "description": null,
@@ -1310,7 +1321,7 @@
             {
               "node_type": "item",
               "title": "Auto-GPT",
-              "description": null,
+              "description": "Significant-Gravitas/AutoGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1319,7 +1330,7 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:45:02Z",
+                "last_commit": "2026-10-03T04:09:35Z",
                 "open_issues": 595,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
@@ -1343,7 +1354,7 @@
             {
               "node_type": "item",
               "title": "Browser Use",
-              "description": null,
+              "description": "browser-use/browser-use",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,11 +1363,11 @@
                 "id": 881458615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:56:28Z",
-                "open_issues": 534,
+                "last_commit": "2026-10-03T00:06:08Z",
+                "open_issues": 531,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 116989,
+                "stars": 117018,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -1372,7 +1383,7 @@
             {
               "node_type": "item",
               "title": "OpenInterpreter",
-              "description": null,
+              "description": "openinterpreter/openinterpreter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1385,7 +1396,7 @@
                 "open_issues": 11,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68485,
+                "stars": 68494,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -1401,7 +1412,7 @@
             {
               "node_type": "item",
               "title": "AutoGen",
-              "description": null,
+              "description": "microsoft/autogen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1414,7 +1425,7 @@
                 "open_issues": 1109,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61246,
+                "stars": 61249,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -1433,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "Skyvern",
-              "description": null,
+              "description": "Skyvern-AI/skyvern",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1442,11 +1453,11 @@
                 "id": 764723738,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T15:22:01Z",
-                "open_issues": 270,
+                "last_commit": "2026-10-03T04:17:40Z",
+                "open_issues": 271,
                 "owner": "Skyvern-AI",
                 "repo": "skyvern",
-                "stars": 23123,
+                "stars": 23128,
                 "topics": [
                   "ai",
                   "api",
@@ -1484,7 +1495,7 @@
                 "open_issues": 108,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10295,
+                "stars": 10296,
                 "topics": [
                   "automation",
                   "openai",
@@ -1496,7 +1507,7 @@
             {
               "node_type": "item",
               "title": "Upsonic",
-              "description": null,
+              "description": "Upsonic/Upsonic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1509,7 +1520,7 @@
                 "open_issues": 34,
                 "owner": "Upsonic",
                 "repo": "Upsonic",
-                "stars": 7957,
+                "stars": 7956,
                 "topics": [
                   "agent",
                   "agent-framework",
@@ -1533,7 +1544,7 @@
             {
               "node_type": "item",
               "title": "LaVague",
-              "description": null,
+              "description": "lavague-ai/LaVague",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1561,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "OpenInterface",
-              "description": null,
+              "description": "AmberSahdev/Open-Interface",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1601,7 +1612,7 @@
             {
               "node_type": "item",
               "title": "Open Source Computer Use by E2B",
-              "description": null,
+              "description": "e2b-dev/open-computer-use",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,7 +1625,7 @@
                 "open_issues": 21,
                 "owner": "e2b-dev",
                 "repo": "open-computer-use",
-                "stars": 2305,
+                "stars": 2306,
                 "topics": [
                   "agent",
                   "ai",
@@ -1629,7 +1640,7 @@
             {
               "node_type": "item",
               "title": "Notte Browser Using Agent",
-              "description": null,
+              "description": "nottelabs/notte",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1638,11 +1649,11 @@
                 "id": 900152988,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:50:14Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-02T16:28:52Z",
+                "open_issues": 15,
                 "owner": "nottelabs",
                 "repo": "notte",
-                "stars": 2009,
+                "stars": 2011,
                 "topics": [
                   "agent",
                   "ai",
@@ -1659,7 +1670,7 @@
             {
               "node_type": "item",
               "title": "Computer Use OOTB",
-              "description": null,
+              "description": "showlab/computer_use_ootb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1680,7 +1691,7 @@
             {
               "node_type": "item",
               "title": "NatBot",
-              "description": null,
+              "description": "nat/natbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1701,7 +1712,7 @@
             {
               "node_type": "item",
               "title": "OpenAdapt",
-              "description": null,
+              "description": "OpenAdaptAI/OpenAdapt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1740,7 +1751,7 @@
             {
               "node_type": "item",
               "title": "Mac Computer Use",
-              "description": null,
+              "description": "deedy/mac_computer_use",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1766,7 +1777,7 @@
             {
               "node_type": "item",
               "title": "Grunty",
-              "description": null,
+              "description": "suitedaces/computer-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1779,7 +1790,7 @@
                 "open_issues": 10,
                 "owner": "suitedaces",
                 "repo": "computer-agent",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "ai",
                   "ai-tools",
@@ -1801,7 +1812,7 @@
             {
               "node_type": "item",
               "title": "Inferable",
-              "description": null,
+              "description": "inferablehq/inferable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1830,7 +1841,7 @@
             {
               "node_type": "item",
               "title": "Claude Computer Use Demo",
-              "description": null,
+              "description": "PallavAg/claude-computer-use-macos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,7 +1854,7 @@
                 "open_issues": 8,
                 "owner": "PallavAg",
                 "repo": "claude-computer-use-macos",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -1855,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "Surfkit",
-              "description": null,
+              "description": "agentsea/surfkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1881,7 +1892,7 @@
             {
               "node_type": "item",
               "title": "Cybergod",
-              "description": null,
+              "description": "James4Ever0/agi_computer_control",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,7 +1921,7 @@
             {
               "node_type": "item",
               "title": "WebMarker",
-              "description": null,
+              "description": "reidbarber/webmarker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1948,7 +1959,7 @@
             {
               "node_type": "item",
               "title": "Claude Minecraft Use",
-              "description": null,
+              "description": "ObservedObserver/claude-minecraft-use",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1979,7 +1990,7 @@
             {
               "node_type": "item",
               "title": "dockur/windows",
-              "description": null,
+              "description": "dockur/windows",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1992,7 +2003,7 @@
                 "open_issues": 24,
                 "owner": "dockur",
                 "repo": "windows",
-                "stars": 53456,
+                "stars": 53461,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -2009,7 +2020,7 @@
             {
               "node_type": "item",
               "title": "qemus/qemu-docker",
-              "description": null,
+              "description": "qemus/qemu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2022,7 +2033,7 @@
                 "open_issues": 5,
                 "owner": "qemus",
                 "repo": "qemu",
-                "stars": 2152,
+                "stars": 2153,
                 "topics": [
                   "docker",
                   "docker-image",
@@ -2039,7 +2050,7 @@
             {
               "node_type": "item",
               "title": "E2B Desktop Sandbox",
-              "description": null,
+              "description": "e2b-dev/desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2048,11 +2059,11 @@
                 "id": 806216118,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T02:01:44Z",
+                "last_commit": "2026-10-02T22:24:32Z",
                 "open_issues": 12,
                 "owner": "e2b-dev",
                 "repo": "desktop",
-                "stars": 1502,
+                "stars": 1504,
                 "topics": [
                   "ai",
                   "computer",
@@ -2077,7 +2088,7 @@
             {
               "node_type": "item",
               "title": "PyAutoGUI",
-              "description": null,
+              "description": "asweigart/pyautogui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2098,7 +2109,7 @@
             {
               "node_type": "item",
               "title": "nut.js",
-              "description": null,
+              "description": "nut-tree/nut.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2136,7 +2147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:56:13.053Z",
+    "last_updated": "2026-10-03T04:21:53.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.",
@@ -2148,7 +2159,7 @@
       "open_issues": 16,
       "owner": "trycua",
       "repo": "acu",
-      "stars": 1775,
+      "stars": 1777,
       "topics": [
         "ai",
         "ai-research",
