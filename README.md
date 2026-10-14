@@ -140,7 +140,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Novel reinforcement learning approach
 
 * [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) (Jun. 2024)
-  * [Code](https://github.com/X-PLUG/MobileAgent) ⭐ 9,286 | 🐛 196 | 🌐 Python | 📅 2026-07-07
+  * [Code](https://github.com/X-PLUG/MobileAgent) ⭐ 9,290 | 🐛 196 | 🌐 Python | 📅 2026-07-07
   * Multi-agent collaboration for mobile device operation
 
 * [Octopus Series: On-device Language Models for Computer Control](https://arxiv.org/abs/2404.01549) (Apr. 2024)
@@ -156,7 +156,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Novel approach for real-world web navigation and bilingual benchmark
 
 * [Cradle: Empowering Foundation Agents towards General Computer Control](https://arxiv.org/abs/2403.03186) (Mar. 2024)
-  * [Code](https://github.com/BAAI-Agents/Cradle) ⭐ 2,595 | 🐛 23 | 🌐 Python | 📅 2024-11-07
+  * [Code](https://github.com/BAAI-Agents/Cradle) ⭐ 2,594 | 🐛 23 | 🌐 Python | 📅 2024-11-07
   * Focus on general computer control using Red Dead Redemption II as a case study
 
 * [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713) (Mar. 2024)
@@ -172,7 +172,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Vision-Language Model for PC interaction
 
 * [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/abs/2402.07939) (Feb. 2024)
-  * [Code](https://github.com/microsoft/UFO) ⭐ 10,001 | 🐛 87 | 🌐 Python | 📅 2026-10-07
+  * [Code](https://github.com/microsoft/UFO) ⭐ 10,010 | 🐛 89 | 🌐 Python | 📅 2026-10-14
   * Specialized for Windows OS interaction
 
 * [CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941) (Feb. 2024)
@@ -196,7 +196,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Demonstrates GPT-4V capabilities for web interaction
 
 * [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/abs/2401.16158) (Jan. 2024)
-  * [Code](https://github.com/X-PLUG/MobileAgent) ⭐ 9,286 | 🐛 196 | 🌐 Python | 📅 2026-07-07
+  * [Code](https://github.com/X-PLUG/MobileAgent) ⭐ 9,290 | 🐛 196 | 🌐 Python | 📅 2026-07-07
   * Visual perception for mobile device interaction
 
 * [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) (Jan. 2024)
@@ -216,7 +216,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Novel approach to web navigation
 
 * [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) (May 2021)
-  * [Code](https://github.com/google-deepmind/android_env) ⭐ 1,247 | 🐛 18 | 🌐 Python | 📅 2026-10-10
+  * [Code](https://github.com/google-deepmind/android_env) ⭐ 1,248 | 🐛 18 | 🌐 Python | 📅 2026-10-10
   * Reinforcement learning platform for Android interaction
 
 <br/>
@@ -228,7 +228,7 @@ A curated list of resources about AI agents for Computer Use, including research
 ### UI Grounding
 
 * [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
-  * [Code](https://github.com/microsoft/OmniParser) ⭐ 25,519 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20
+  * [Code](https://github.com/microsoft/OmniParser) ⭐ 25,520 | 🐛 231 | 🌐 Jupyter Notebook | 📅 2026-07-20
   * Novel vision-based screen parsing method for UI screenshots
   * Combines finetuned interactable icon detection and functional description models
 
@@ -329,11 +329,11 @@ A curated list of resources about AI agents for Computer Use, including research
   * [Website](https://yuxiangchai.github.io/Android-Agent-Arena/)
 
 * [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972) (Apr. 2024)
-  * [Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,205 | 🐛 216 | 🌐 Python | 📅 2026-09-14
+  * [Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,207 | 🐛 216 | 🌐 Python | 📅 2026-09-14
   * Comprehensive evaluation framework
 
 * [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573) (May. 2024)
-  * [Code](https://github.com/google-research/android_world) ⭐ 949 | 🐛 53 | 🌐 Python | 📅 2026-10-13
+  * [Code](https://github.com/google-research/android_world) ⭐ 951 | 🐛 53 | 🌐 Python | 📅 2026-10-13
   * Android-focused evaluation
 
 * [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956) (Jul. 2024)
@@ -359,7 +359,7 @@ A curated list of resources about AI agents for Computer Use, including research
   * Web-focused evaluation
 
 * [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](https://arxiv.org/abs/2409.08264) (Sep. 2024)
-  * [Code](https://github.com/microsoft/WindowsAgentArena) ⭐ 908 | 🐛 39 | 🌐 Python | 📅 2026-04-13
+  * [Code](https://github.com/microsoft/WindowsAgentArena) ⭐ 910 | 🐛 39 | 🌐 Python | 📅 2026-04-13
   * Windows OS-focused evaluation framework
   * [Website](https://microsoft.github.io/WindowsAgentArena/)
 
@@ -397,23 +397,23 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Frameworks & Models
 
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,556 | 🐛 716 | 🌐 Python | 📅 2026-10-13
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,569 | 🐛 657 | 🌐 Python | 📅 2026-10-14
   * Autonomous GPT-4 agent
   * Task automation focus
 
-* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 117,859 | 🐛 529 | 🌐 Python | 📅 2026-10-09
+* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 117,951 | 🐛 534 | 🌐 Python | 📅 2026-10-09
   * Make websites accessible for AI agents with vision + HTML extraction
   * Supports multi-tab management and custom actions with LangChain integration
 
-* [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,569 | 🐛 14 | 🌐 Rust | 📅 2026-10-11
+* [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,576 | 🐛 14 | 🌐 Rust | 📅 2026-10-11
   * General-purpose computer control framework
   * Python-based, extensible architecture
 
-* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,388 | 🐛 1,104 | 🌐 Python | 📅 2026-04-15
+* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,400 | 🐛 1,105 | 🌐 Python | 📅 2026-04-15
   * Framework for building AI agent systems.
   * It simplifies the creation of event-driven, distributed, scalable, and resilient agentic applications.
 
-* [Skyvern](https://github.com/skyvern-ai/skyvern) ⭐ 23,190 | 🐛 276 | 🌐 Python | 📅 2026-10-13
+* [Skyvern](https://github.com/skyvern-ai/skyvern) ⭐ 23,195 | 🐛 277 | 🌐 Python | 📅 2026-10-14
   * AI web agent framework
   * Automate browser-based workflows with LLMs using vision and HTML extraction
 
@@ -422,23 +422,23 @@ A curated list of resources about AI agents for Computer Use, including research
   * Computer control framework
   * Vision-based automation
 
-* [Upsonic](https://github.com/upsonic/upsonic) ⭐ 7,958 | 🐛 37 | 🌐 Python | 📅 2026-06-18
+* [Upsonic](https://github.com/upsonic/upsonic) ⭐ 7,956 | 🐛 37 | 🌐 Python | 📅 2026-06-18
   * Reliable agent framework that support MCP
   * Integrated Browser Use and Computer Use
 
-* [LaVague](https://github.com/lavague-ai/LaVague) ⭐ 6,390 | 🐛 106 | 🌐 Python | 📅 2025-01-21
+* [LaVague](https://github.com/lavague-ai/LaVague) ⭐ 6,389 | 🐛 106 | 🌐 Python | 📅 2025-01-21
   * AI web agent framework
   * Modular architecture
 
-* [OpenInterface](https://github.com/AmberSahdev/Open-Interface/) ⭐ 2,724 | 🐛 26 | 🌐 Python | 📅 2026-07-17
+* [OpenInterface](https://github.com/AmberSahdev/Open-Interface/) ⭐ 2,725 | 🐛 26 | 🌐 Python | 📅 2026-07-17
   * Open-source UI interaction framework
   * Cross-platform support
 
-* [Open Source Computer Use by E2B](https://github.com/e2b-dev/secure-computer-use/tree/os-computer-use) ⭐ 2,360 | 🐛 21 | 🌐 Python | 📅 2026-07-09
+* [Open Source Computer Use by E2B](https://github.com/e2b-dev/secure-computer-use/tree/os-computer-use) ⭐ 2,358 | 🐛 22 | 🌐 Python | 📅 2026-07-09
   * Open-source implementation of computer control capabilities
   * Secure sandboxed environment for AI agents
 
-* [Notte Browser Using Agent](https://github.com/nottelabs/notte) ⭐ 2,030 | 🐛 9 | 🌐 Python | 📅 2026-10-13
+* [Notte Browser Using Agent](https://github.com/nottelabs/notte) ⭐ 2,035 | 🐛 3 | 🌐 Python | 📅 2026-10-14
   * Full-stack web AI agents framework (agents, automations, cloud browser sessions)
   * Notte turns websites into structured, navigable maps described in natural language
 
@@ -450,11 +450,11 @@ A curated list of resources about AI agents for Computer Use, including research
   * Browser automation
   * GPT-4 Vision integration
 
-* [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,774 | 🐛 10 | 🌐 Python | 📅 2026-10-10
+* [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,775 | 🐛 10 | 🌐 Python | 📅 2026-10-14
   * AI-First Process Automation
   * Multimodal model integration
 
-* [Mac Computer Use](https://github.com/deedy/mac_computer_use) ⭐ 886 | 🐛 16 | 🌐 Python | 📅 2024-12-16
+* [Mac Computer Use](https://github.com/deedy/mac_computer_use) ⭐ 887 | 🐛 16 | 🌐 Python | 📅 2024-12-16
   * MacOS-specific tools
   * Anthropic integration
 
@@ -511,13 +511,13 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Environment & Sandbox
 
-* [dockur/windows](https://github.com/dockur/windows) ⭐ 53,615 | 🐛 14 | 🌐 Shell | 📅 2026-10-08
+* [dockur/windows](https://github.com/dockur/windows) ⭐ 53,625 | 🐛 15 | 🌐 Shell | 📅 2026-10-08
   * Windows inside a Docker container
 
 * [qemus/qemu-docker](https://github.com/qemus/qemu-docker) ⭐ 2,164 | 🐛 5 | 🌐 Shell | 📅 2026-10-05
   * Docker container for running virtual machines using QEMU
 
-* [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop) ⭐ 1,527 | 🐛 12 | 🌐 Python | 📅 2026-10-13
+* [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop) ⭐ 1,529 | 🐛 11 | 🌐 Python | 📅 2026-10-13
   * Secure desktop environment
   * Agent testing platform
 
@@ -532,11 +532,11 @@ A curated list of resources about AI agents for Computer Use, including research
 
 ### Automation
 
-* [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,731 | 🐛 582 | 🌐 Python | 📅 2024-08-20
+* [PyAutoGUI](https://github.com/asweigart/pyautogui) ⭐ 12,732 | 🐛 582 | 🌐 Python | 📅 2024-08-20
   * Cross-platform GUI automation
   * Python-based control library
 
-* [nut.js](https://github.com/nut-tree/nut.js) ⭐ 2,856 | 🐛 44 | 🌐 TypeScript | 📅 2024-05-01
+* [nut.js](https://github.com/nut-tree/nut.js) ⭐ 2,857 | 🐛 44 | 🌐 TypeScript | 📅 2024-05-01
   * Native UI automation
   * JavaScript/TypeScript implementation
 
@@ -580,7 +580,7 @@ To contribute:
 3. Submit a pull request with a clear description of your additions/changes
 4. Post in the [X Community](https://x.com/i/communities/1874549355442802764) to let everyone know about the new resource
 
-For an example of how to format your contribution, please refer to [this PR](https://github.com/francedot/acu/pull/1) ⭐ 1,788 | 🐛 17 | 📅 2025-09-26.
+For an example of how to format your contribution, please refer to [this PR](https://github.com/francedot/acu/pull/1) ⭐ 1,789 | 🐛 18 | 📅 2025-09-26.
 
 <br/>
 
@@ -588,4 +588,4 @@ For an example of how to format your contribution, please refer to [this PR](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
